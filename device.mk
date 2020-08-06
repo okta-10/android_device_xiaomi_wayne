@@ -98,3 +98,7 @@ PRODUCT_DEVICE := wayne
 PRODUCT_MODEL := Mi 6X (AOSP)
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MANUFACTURER := Xiaomi
+
+# Wallpapers
+PRODUCT_PACKAGES += \
+    NusantaraPapers
