@@ -34,7 +34,7 @@ TARGET_TAP_TO_WAKE_NODE := "/sys/touchpanel/double_tap"
 
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/xiaomi/sdm660
-TARGET_KERNEL_CONFIG := wayne_defconfig
+TARGET_KERNEL_CONFIG := mystic-a26x-newcam_defconfig
 
 TW_USE_TOOLBOX := true
 
