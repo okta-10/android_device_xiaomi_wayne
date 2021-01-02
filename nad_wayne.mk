@@ -26,7 +26,6 @@ $(call inherit-product, device/xiaomi/wayne/device.mk)
 
 # Inherit some common stuff from Project-Nusantara
 $(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
-$(call inherit-product, vendor/nusantara/config/gsm.mk)
 
 TARGET_BOOT_ANIMATION_RES := 1080
 
