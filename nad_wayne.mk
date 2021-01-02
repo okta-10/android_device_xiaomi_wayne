@@ -28,10 +28,6 @@ $(call inherit-product, device/xiaomi/wayne/device.mk)
 $(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
 $(call inherit-product, vendor/nusantara/config/gsm.mk)
 
-# Gapps
-USE_GAPPS := true
-IS_PHONE := true
-TARGET_GAPPS_ARCH := arm64
 TARGET_BOOT_ANIMATION_RES := 1080
 
 # Define first api level
