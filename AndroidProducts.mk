@@ -21,11 +21,11 @@
 # definition file).
 #
 
-# inherit device config for Project-Awaken
+# inherit device config for Project-Nusantara
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/awaken_wayne.mk
+    $(LOCAL_DIR)/nad_wayne.mk
 
 COMMON_LUNCH_CHOICES := \
-    awaken_wayne-eng \
-    awaken_wayne-userdebug \
-    awaken_wayne-user
+    nad_wayne-eng \
+    nad_wayne-userdebug \
+    nad_wayne-user
