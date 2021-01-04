@@ -28,5 +28,11 @@
     "repository"  : "lineageos/android_packages_apps_DeskClock",
     "target_path" : "packages/apps/DeskClock",
     "branch"      : "lineage-18.1"
+  },
+  {
+    "remote"      : "github",
+    "repository"  : "lineageos/android_packages_apps_Etar",
+    "target_path" : "packages/apps/Etar",
+    "branch"      : "lineage-18.1"
   }
 ]

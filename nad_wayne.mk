@@ -39,7 +39,8 @@ USE_PIXEL_CHARGING := true
 
 # Package Apps
 PRODUCT_PACKAGES += \
-    DeskClock
+    DeskClock \
+    Etar
 
 # Build Fingerprint
 PRODUCT_BUILD_PROP_OVERRIDES += \
