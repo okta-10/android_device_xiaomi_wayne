@@ -22,5 +22,11 @@
     "repository"  : "android_packages_apps_NusantaraPapers",
     "target_path" : "packages/apps/NusantaraPapers",
     "branch"      : "10"
+  },
+  {
+    "remote"      : "github",
+    "repository"  : "lineageos/android_packages_apps_DeskClock",
+    "target_path" : "packages/apps/DeskClock",
+    "branch"      : "lineage-18.1"
   }
 ]
