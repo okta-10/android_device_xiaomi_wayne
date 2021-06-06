@@ -27,8 +27,6 @@ $(call inherit-product, device/xiaomi/wayne/device.mk)
 # Inherit Nusantara product configuration
 $(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
 
-$(call inherit-product-if-exists, packages/apps/NusantaraParts/nadproject.mk)
-
 # Define first api level
 $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_o_mr1.mk)
 

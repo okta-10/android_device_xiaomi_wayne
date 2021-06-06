@@ -16,17 +16,5 @@
     "repository"    : "okta/android_vendor_xiaomi_MiuiCamera",
     "target_path"   : "vendor/xiaomi/MiuiCamera",
     "branch"        : "meme"
-  },
-  {
-    "remote"        : "priv",
-    "repository"    : "android_packages_apps_NusantaraParts",
-    "target_path"   : "packages/apps/NusantaraParts",
-    "branch"        : "4.4"
-  },
-  {
-    "remote"        : "priv",
-    "repository"    : "android_packages_apps_NusantaraPapers",
-    "target_path"   : "packages/apps/NusantaraPapers",
-    "branch"        : "10"
   }
 ]
