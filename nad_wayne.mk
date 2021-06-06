@@ -36,6 +36,9 @@ TARGET_BOOT_ANIMATION_RES := 1080
 # Pixel-charging
 USE_PIXEL_CHARGING := true
 
+# Face Unlock
+TARGET_FACE_UNLOCK_SUPPORTED := true
+
 # Build Fingerprint
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="wayne-user 9 PKQ1.180904.001 V10.3.4.0.PDCCNXM release-keys"
